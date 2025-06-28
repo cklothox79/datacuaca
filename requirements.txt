@@ -3,4 +3,3 @@ pandas
 matplotlib
 folium
 streamlit-folium
-pip freeze > requirements.txt
